@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-13T07:03:59.561+03:00"}
+{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-13T07:13:11.380+03:00"}
 ---
 
 # 🧠 MedDude: Your Ultimate Exam Resource Hub
@@ -15,7 +15,7 @@ All powered by the Edexcel curriculum (including legacy qualifications).
 
 ## 🎯 What You'll Find Here
 
-Whether you're revising for finals, searching for topic-specific questions, or trying to master the syllabus — this site has your back.
+Whether you're revising for finals, searching for topic-specific questions, or trying to master the syllabus, this site has your back.
 
 Here’s what MedDude provides:
 
