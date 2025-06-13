@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-13T06:55:19.192+03:00"}
+{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-13T06:59:01.003+03:00"}
 ---
 
-# 🧠 Meddude: Your Ultimate Exam Resource Hub
+# 🧠 MedDude: Your Ultimate Exam Resource Hub
 
-Welcome to **Meddude**, your personal digital study companion built for students preparing for:
+Welcome to **MedDude**, your personal digital study companion built for students preparing for:
 - 📘 **IGCSE**
 - 📕 **GCSE**
 - 📗 **A Level**
@@ -17,7 +17,7 @@ All powered by the Edexcel curriculum (including legacy qualifications).
 
 Whether you're revising for finals, searching for topic-specific questions, or trying to master the syllabus — this site has your back.
 
-Here’s what Meddude provides:
+Here’s what MedDude provides:
 
 ✅ **Organized Past Papers**  
 Easily accessible and sorted by subject, level, and year.
