@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-13T06:59:01.003+03:00"}
+{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-13T07:03:12.111+03:00"}
 ---
 
 # 🧠 MedDude: Your Ultimate Exam Resource Hub
 
 Welcome to **MedDude**, your personal digital study companion built for students preparing for:
-- 📘 **IGCSE**
+- 📘 [[**IGCSE**\|**IGCSE**]]
 - 📕 **GCSE**
 - 📗 **A Level**
 - 📙 **International A Level (IAL)**  
