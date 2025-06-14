@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-14T07:08:33.883+03:00"}
+{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-14T07:25:59.646+03:00"}
 ---
 
 # 🧠 MedDude: Your Ultimate Exam Resource Hub
@@ -60,4 +60,3 @@ Click on your course level to dive in:
 
 Happy studying,  
 **— MedDude**
-hello
