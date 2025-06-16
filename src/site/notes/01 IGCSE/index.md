@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-igcse/index/","created":"2025-06-14T07:59:02.610+03:00","updated":"2025-06-16T08:19:32.289+03:00"}
+{"dg-publish":true,"permalink":"/01-igcse/index/","created":"2025-06-14T07:59:02.610+03:00","updated":"2025-06-16T10:13:45.300+03:00"}
 ---
 
 # IGCSE 
@@ -19,7 +19,5 @@ This is the IGCSE page where you can find the subjects pertaining to the IGCSE C
 
 ## 🔗 Related
 
-- [[01 IGCSE/index\|IGCSE]]
-- [[02 GCSE/index\|GCSE]]
-- [[04 A Level/index\|A Level]]
-- [[03 IAL/index\|IAL]]
+- [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
+- [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
