@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/01-igcse/accounting-igcse/01-accounting-pastpapers/","created":"2025-06-16T07:41:49.344+03:00","updated":"2025-06-16T10:14:07.200+03:00"}
+{"dg-publish":true,"permalink":"/01-igcse/accounting-igcse/01-accounting-pastpapers/","created":"2025-06-16T07:41:49.344+03:00","updated":"2025-06-16T23:32:33.681+03:00"}
 ---
 
 # Past Papers
 
 ## Modular Specification 
+
+[[4ac1-01-que-20231103_metadata.pdf]]
+
 
 > [!tldr]- Past Papers
 > > [!tldr]- 2025
