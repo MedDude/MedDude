@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-16T05:50:46.261+03:00"}
+{"dg-publish":true,"permalink":"/welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-16T06:00:25.128+03:00"}
 ---
 
 # 👋 Welcome to MedDude
@@ -54,7 +54,7 @@ I’m building a space where students can not only **study smarter**, but also *
 
 Choose where you’re at:
 
-- [[IGCSE/IGCSE\|IGCSE]]
+- [[IGCSE/index\|IGCSE]]
 - [[GCSE\|GCSE]]
 - [[A Level\|A Level]]
 - [[IAL\|IAL]]
