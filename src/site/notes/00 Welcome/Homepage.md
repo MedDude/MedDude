@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-16T06:09:09.501+03:00"}
+{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-16T06:37:37.915+03:00"}
 ---
 
 # 👋 Welcome to MedDude
@@ -12,14 +12,14 @@ This site is my version of that.
 
 ## 🎯 What Is This?
 
-This is a **[[00 Welcome/digital garden\|digital garden]]** — a growing library of curated notes, exam strategies, past paper walkthroughs, and explanations. All made for:
+This is a **[[Published/digital garden\|digital garden]]** , a growing library of curated notes, exam strategies, past paper walkthroughs, and explanations. All made for:
 
 - 📘 **IGCSE**
 - 📕 **GCSE**
 - 📗 **A Level**
 - 📙 **International A Level (IAL)**
 
-Everything here is built on the **Edexcel syllabus**, including legacy qualifications. No sign-ups. No nonsense. Just organized, evolving content, designed the way I wish I had it when I was preparing for exams.
+Everything here is built on the **Edexcel syllabus**, including [[Published/What are Legacy qualifications\|legacy qualifications]]. No sign-ups. No nonsense. Just organized, evolving content, designed the way I wish I had it when I was preparing for exams.
 
 ---
 
