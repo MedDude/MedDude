@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-igcse/accounting-igcse/01-accounting-pastpapers/","created":"2025-06-16T07:41:49.344+03:00","updated":"2025-06-16T23:32:33.681+03:00"}
+{"dg-publish":true,"permalink":"/01-igcse/accounting-igcse/01-accounting-pastpapers/","created":"2025-06-16T07:41:49.344+03:00","updated":"2025-06-19T03:49:37.528+03:00"}
 ---
 
 # Past Papers
 
-## Modular Specification 
-
-[[4ac1-01-que-20231103_metadata.pdf]]
-
+## Modular Specification (Current)
 
 > [!tldr]- Past Papers
 > > [!tldr]- 2025
@@ -20,7 +17,7 @@
 > >
 > > > [!NOTE]- June 2024
 > > > The current past paper for this session is locked. Check Discord for unlocked past papers.
-## 2017 Specification
+## 2017 Specification (Old)
 
 > [!tldr]- Past Papers
 > > [!tldr]- 2024
@@ -56,4 +53,5 @@
 - [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
 - [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
 - [[01 IGCSE/index\|IGCSE]]
-- 
+
+test

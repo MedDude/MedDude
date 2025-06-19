@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-16T10:14:33.861+03:00"}
+{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-19T03:27:09.984+03:00"}
 ---
 
 # 👋 Welcome to MedDude
@@ -71,14 +71,13 @@ Choose where you’re at:
 
 ---
 
-## 📺 Also on YouTube & Discord Server
-For walkthroughs, study motivation, and breakdowns as well as the discord for more materials:
+## 📺 Also on YouTube  
+For walkthroughs, study motivation, and breakdowns:
 👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
-👉 [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
 
 ---
 
 Thanks for stopping by.  
-**~ MedDude :)**
+**— MedDude :)**
 
 
