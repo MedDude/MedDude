@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-igcse/index/","created":"2025-06-14T07:59:02.610+03:00","updated":"2025-06-19T04:28:47.919+03:00"}
+{"dg-publish":true,"permalink":"/01-igcse/index/","created":"2025-06-14T07:59:02.610+03:00","updated":"2025-06-19T04:41:26.452+03:00"}
 ---
 
 # IGCSE 
@@ -8,7 +8,7 @@ This is the IGCSE page where you can find the subjects pertaining to the IGCSE C
 
 ## Subjects
 
-- **[[01 IGCSE/Accounting - IGCSE/1000 Accounting - IGCSE\|Accounting-IGCSE]]**
+- **[[01 IGCSE/Accounting - IGCSE/1000 - Accounting\|Accounting-IGCSE]]**
 - 
 
 
