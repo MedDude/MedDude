@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-19T03:27:09.984+03:00"}
+{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-19T04:28:10.616+03:00"}
 ---
 
 # 👋 Welcome to MedDude
