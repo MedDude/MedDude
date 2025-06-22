@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-19T04:28:10.616+03:00"}
+{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-22T04:36:15.151+03:00"}
 ---
 
 # 👋 Welcome to MedDude
@@ -12,14 +12,14 @@ This site is my version of that.
 
 ## 🎯 What Is This?
 
-This is a **[[Published/digital garden\|digital garden]]** , a growing library of curated notes, exam strategies, past paper walkthroughs, and explanations. All made for:
+This is a **[[500 Published/digital garden\|digital garden]]** , a growing library of curated notes, exam strategies, past paper walkthroughs, and explanations. All made for:
 
 - 📘 **IGCSE**
 - 📕 **GCSE**
 - 📗 **A Level**
 - 📙 **International A Level (IAL)**
 
-Everything here is built on the **Edexcel syllabus**, including [[Published/What are Legacy qualifications\|legacy qualifications]]. No sign-ups. No nonsense. Just organized, evolving content, designed the way I wish I had it when I was preparing for exams.
+Everything here is built on the **Edexcel syllabus**, including [[500 Published/What are Legacy qualifications\|legacy qualifications]]. No sign-ups. No nonsense. Just organized, evolving content, designed the way I wish I had it when I was preparing for exams.
 
 ---
 
@@ -54,10 +54,10 @@ I’m building a space where students can not only **study smarter**, but also *
 
 Choose where you’re at:
 
-- [[01 IGCSE/index\|IGCSE]]
-- [[02 GCSE/index\|GCSE]]
-- [[04 A Level/index\|A Level]]
-- [[03 IAL/index\|IAL]]
+- [[100 IGCSE/index\|IGCSE]]
+- [[200 GCSE/index\|GCSE]]
+- [[400 A Level/index\|A Level]]
+- [[300 IAL/index\|IAL]]
 
 ---
 
@@ -72,8 +72,11 @@ Choose where you’re at:
 ---
 
 ## 📺 Also on YouTube  
-For walkthroughs, study motivation, and breakdowns:
-👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
+
+For walkthroughs, study motivation, and breakdowns as well as my discord community for more resources not available on the website.
+
+### 👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
+### 👉 [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
 
 ---
 
