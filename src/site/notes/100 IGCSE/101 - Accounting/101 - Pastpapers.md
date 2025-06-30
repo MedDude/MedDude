@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-pastpapers/","created":"2025-06-16T07:41:49.344+03:00","updated":"2025-06-30T06:46:19.751+03:00"}
+{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-pastpapers/","created":"2025-06-16T07:41:49.344+03:00","updated":"2025-06-30T06:47:50.588+03:00"}
 ---
 
-# Past Papers
+# Accounting IGCSE - Past Papers
 
 ---
 ## Modular Specification (Current)
