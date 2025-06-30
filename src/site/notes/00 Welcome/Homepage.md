@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-22T04:36:15.151+03:00"}
+{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-30T06:13:35.120+03:00"}
 ---
 
 # 👋 Welcome to MedDude
@@ -77,6 +77,19 @@ For walkthroughs, study motivation, and breakdowns as well as my discord communi
 
 ### 👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
 ### 👉 [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
+
+---
+## ❤️ Support This Project
+
+This site is **100% free**, no ads, no paywalls. If my resources helped you, donations keep it alive and growing.  
+
+**Why donate?**  
+- Covers hosting, tools, and time  
+- Lets me create *more* (and better) content  
+- Keeps everything accessible for students  
+### 👉 **[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=S5N6JJWSWU8MQ)**  
+
+*Even $1 helps!*  
 
 ---
 
