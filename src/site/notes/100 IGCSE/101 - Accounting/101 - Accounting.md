@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-accounting/","created":"2025-06-19T04:26:50.922+03:00","updated":"2025-06-20T18:33:44.032+03:00"}
+{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-accounting/","created":"2025-06-19T04:26:50.922+03:00","updated":"2025-06-30T06:45:42.490+03:00"}
 ---
 
 Here you can find the Specifications, current and old, as well as the PastPapers, Notes will come soon.
@@ -18,16 +18,17 @@ Here you can find the Specifications, current and old, as well as the PastPapers
 
 ## 🧭 Navigation
 
-- 🔙 [[00 Welcome/Homepage\|Homepage]]
 - 📁 [[100 IGCSE/index\|IGCSE]]
 
 
 ---
-
 ## 🔗 Related
 
-- [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
-- [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
+### 👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
+### 👉 [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
 
+--- 
+## ❤️ Support This Project
 
-
+This site is **100% free**, no ads, no paywalls. If my resources helped you, donations keep it alive and growing.  
+### 👉 **[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=S5N6JJWSWU8MQ)**  

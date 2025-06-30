@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-igcse/index/","created":"2025-06-14T07:59:02.610+03:00","updated":"2025-06-20T18:33:16.285+03:00"}
+{"dg-publish":true,"permalink":"/100-igcse/index/","created":"2025-06-14T07:59:02.610+03:00","updated":"2025-06-30T06:46:38.644+03:00"}
 ---
 
 # IGCSE 
@@ -20,5 +20,11 @@ This is the IGCSE page where you can find the subjects pertaining to the IGCSE C
 
 ## 🔗 Related
 
-- [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
-- [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
+### 👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
+### 👉 [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
+
+--- 
+## ❤️ Support This Project
+
+This site is **100% free**, no ads, no paywalls. If my resources helped you, donations keep it alive and growing.  
+### 👉 **[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=S5N6JJWSWU8MQ)**  

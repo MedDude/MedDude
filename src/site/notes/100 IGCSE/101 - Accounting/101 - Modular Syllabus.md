@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-modular-syllabus/","created":"2025-06-16T07:18:57.549+03:00","updated":"2025-06-20T18:33:44.050+03:00"}
+{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-modular-syllabus/","created":"2025-06-16T07:18:57.549+03:00","updated":"2025-06-30T06:45:09.397+03:00"}
 ---
 
 # [Download Current Specification](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Accounting/2023/specification-and-sample-assessments/international-gcse-in-accounting-modular-specification.pdf)
@@ -87,17 +87,20 @@
 
 ## 🧭 Navigation
 
-- 🔙 [[00 Welcome/Homepage\|Homepage]]
 - 📁 [[100 IGCSE/101 - Accounting/101 - Pastpapers\|PastPapers]]
 - 📁 [[100 IGCSE/101 - Accounting/101 - Accounting\|Accounting-IGCSE]]
 
 ---
-
 ## 🔗 Related
 
-- [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
-- [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
+### 👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
+### 👉 [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
 
+--- 
+## ❤️ Support This Project
+
+This site is **100% free**, no ads, no paywalls. If my resources helped you, donations keep it alive and growing.  
+### 👉 **[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=S5N6JJWSWU8MQ)**  
 
 
 
