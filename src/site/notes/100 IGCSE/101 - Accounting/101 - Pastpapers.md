@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-pastpapers/","created":"2025-06-16T07:41:49.344+03:00","updated":"2025-06-30T06:47:50.588+03:00"}
+{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-pastpapers/","created":"2025-06-16T07:41:49.344+03:00","updated":"2025-07-02T05:44:38.486+03:00"}
 ---
 
 # Accounting IGCSE - Past Papers
@@ -174,18 +174,19 @@
 
 ---
 
-## 🧭 Navigation
+### 🧭 Navigation
 
-- 📁 [[100 IGCSE/101 - Accounting/101 - Accounting\|Accounting-IGCSE]]
+- 📁 [[100 IGCSE/101 - Accounting/101 - Accounting\|Accounting]]
 
 ---
-## 🔗 Related
+### 🔗 Related
 
-### 👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
-### 👉 [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
+#### 👉 [MedDude YouTube Channel](https://www.youtube.com/@MedDudee)
+#### 👉 [MedDude Discord Server](https://discord.com/invite/gQw6Smx8nX)
 
 --- 
-## ❤️ Support This Project
+### ❤️ Support This Project
 
 This site is **100% free**, no ads, no paywalls. If my resources helped you, donations keep it alive and growing.  
-### 👉 **[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=S5N6JJWSWU8MQ)**  
+#### 👉 **[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=S5N6JJWSWU8MQ)**  
+
