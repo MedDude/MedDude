@@ -1,17 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-old-2017-syllabus/","created":"2025-06-19T04:29:55.599+03:00","updated":"2025-07-06T19:07:34.267+03:00"}
+{"dg-publish":true,"permalink":"/100-igcse/101-accounting/101-old-2017-syllabus/","created":"2025-06-19T04:29:55.599+03:00","updated":"2025-07-06T19:12:35.242+03:00"}
 ---
 
 # [Download 2017 Specification](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Accounting/2017/Specification-and-sample-assessments/ig-accountancy-spec.pdf)
 
-<iframe
-  src="https://drive.google.com/file/d/1yJC54RcUKpQXbLPhaUir_N-xuhwqzljN/view?usp=sharing"
-  width="100%"
-  height="800px"
-  style="border:none;">
-  Your browser doesn't support PDFs. <a href="https://drive.google.com/file/d/1yJC54RcUKpQXbLPhaUir_N-xuhwqzljN/view?usp=sharing">Download the PDF</a>.
+<iframe 
+  src="https://drive.google.com/file/d/1yJC54RcUKpQXbLPhaUir_N-xuhwqzljN/preview" 
+  width="100%" 
+  height="600px"
+  style="border: none;">
 </iframe>
-
 
 
 
