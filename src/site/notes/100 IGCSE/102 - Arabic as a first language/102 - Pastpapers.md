@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-igcse/102-arabic-as-a-first-language/102-pastpapers/","created":"2025-07-02T05:54:51.003+03:00","updated":"2025-07-06T19:23:30.272+03:00"}
+{"dg-publish":true,"permalink":"/100-igcse/102-arabic-as-a-first-language/102-pastpapers/","created":"2025-07-02T05:54:51.003+03:00","updated":"2025-07-06T19:25:08.081+03:00"}
 ---
 
 # Past Papers
@@ -11,7 +11,7 @@
 > > [!tldr]- 2025
 > > > [!NOTE]- June 2025
 > > > The current past paper for this session is locked. Check Discord for unlocked past papers.
-> <iframe src="https://drive.google.com/file/d/1yJC54RcUKpQXbLPhaUir_N-xuhwqzljN/preview" width="100%"  height="600px"  style="border: none;"></iframe>
+> > > <iframe src="https://drive.google.com/file/d/1yJC54RcUKpQXbLPhaUir_N-xuhwqzljN/preview" width="100%"  height="600px"  style="border: none;"></iframe>
 > > [!tldr]- 2024
 > > > [!NOTE]- November 2024
 > >> The current past paper for this session is locked. Check Discord for unlocked past papers.
