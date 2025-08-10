@@ -29,7 +29,7 @@ Everything here is built on the **Edexcel syllabus**, including [[500 Published/
   Clean, filterable, no digging required.
 
 - **Focused Notes**  
-  Based on real understanding — not just content dumps.
+  Based on real understanding: not just content dumps.
 
 - **Clickable Syllabi**  
   Topic-by-topic breakdowns with links to exactly what you need.
@@ -96,4 +96,3 @@ This site is **100% free**, no ads, no paywalls. If my resources helped you, don
 Thanks for stopping by.  
 **— MedDude :)**
 
-testing
