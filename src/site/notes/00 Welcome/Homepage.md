@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-06-30T06:13:35.120+03:00"}
+{"dg-publish":true,"permalink":"/00-welcome/homepage/","tags":["gardenEntry"],"created":"2025-06-13T06:28:12.857+03:00","updated":"2025-09-12T12:11:27.369+03:00"}
 ---
 
-# 👋 Welcome to MedDude
+# hello students
 
-I'm **MedDude**, a university student who genuinely enjoyed cracking past papers and explaining things that once felt impossible. Back when I was doing my A Levels, I always wished something like this existed , a space that made studying feel a little less lonely, and a lot more clear.
+i made this website for people to get easy access to notes, topical questions and past papers.
 
-This site is my version of that.
 
 ---
 
@@ -29,7 +28,7 @@ Everything here is built on the **Edexcel syllabus**, including [[500 Published/
   Clean, filterable, no digging required.
 
 - **Focused Notes**  
-  Based on real understanding: not just content dumps.
+  Based on real understanding — not just content dumps.
 
 - **Clickable Syllabi**  
   Topic-by-topic breakdowns with links to exactly what you need.
@@ -95,4 +94,5 @@ This site is **100% free**, no ads, no paywalls. If my resources helped you, don
 
 Thanks for stopping by.  
 **— MedDude :)**
+
 
